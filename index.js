@@ -20,7 +20,7 @@ const data = [
         "id": 283090,
         "latitude": 18.603536,
         "longitude": 73.716578,
-        "name": "Embassy Tech Zone"
+        "name": "Embassy Tech Zone Park"
     },
     {
         "id": 283116,
