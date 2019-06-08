@@ -1,0 +1,4 @@
+applications:
+- name: rescue-buddy
+  random-route: true
+  memory: 128M
